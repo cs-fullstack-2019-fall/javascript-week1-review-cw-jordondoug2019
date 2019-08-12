@@ -1,5 +1,8 @@
 # javaScript-week1-review-cw
 
+Partial Credit bc you did not use a while loop to conitnue to prompt the user.
+Score : 3 points 
+
 ### Problem 1
 
 Asks the user to enter 1 for 'count down' and 2 for 'count up'. 
